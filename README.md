@@ -26,6 +26,7 @@ build programs and tools in physics, mathematics and artificial intelligence.
 
 | | |
 |---|---|
+| **[Qwen3.6-35B-A3B-RFT](https://huggingface.co/salihyesil59/Qwen3.6-35B-A3B-RFT-Agent-GGUF)** | Qwen3.6-35B-A3B fine-tuned by rejection sampling on its own shortest correct solutions in math, physics, tool calling and agentic Python; GPQA Diamond physics from 55% to 63%, MATH-500 with a Python tool from 61% to 71%. Mixed Q4 GGUF for LM Studio, in [Agent](https://huggingface.co/salihyesil59/Qwen3.6-35B-A3B-RFT-Agent-GGUF) and [Reasoning](https://huggingface.co/salihyesil59/Qwen3.6-35B-A3B-RFT-Reasoning-GGUF) variants. [`code`](https://github.com/salihyesil59/qwen3.6-35b-a3b-rft) |
 | **[qwen3VL_Latex](https://huggingface.co/salihyesil59/qwen3VL_Latex)** | Qwen3-VL 8B fine-tuned to turn handwritten or printed mathematics into LaTeX. [`code`](https://github.com/salihyesil59/qwen3vl-8b-latex) |
 | **[llama3.1-8b-physics](https://huggingface.co/salihyesil59/llama3.1-8b-physics)** | Llama 3.1 8B fine-tuned on physics, for explanation and question answering. [`code`](https://github.com/salihyesil59/llama3.1-8b-physics) |
 
