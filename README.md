@@ -1,0 +1,37 @@
+## Salih Yeşil
+
+**MSc Mathematical Physics · Istanbul University**
+
+I'm a master's student in mathematical physics at Istanbul University, working
+in cosmology. I enjoy turning physics and mathematics into code, so on GitHub I
+build programs and tools in physics, mathematics and artificial intelligence.
+
+🔗 **[salihyesil59.github.io](https://salihyesil59.github.io/)**
+
+---
+
+### Research code
+
+| | |
+|---|---|
+| **[CosmoFit](https://github.com/salihyesil59/CosmoFit)** | Cosmological parameter estimation and Bayesian inference. Since v2.0 built from theories, likelihoods and samplers, assembled from a YAML input and run with `cosmofit run`. ΛCDM, wCDM, CPL, JBP, BA, PEDE, GEDE, sign-switching Λ, Chaplygin gas, interacting DE and modified gravity (f(R), f(R,T), f(T), f(Q), DGP), fitted down to structure growth; 21 datasets including DESI DR2 and the CMB through CAMB; MCMC, emcee, dynesty, profile and Fisher samplers; a desktop GUI. [`pip install cosmofit`](https://pypi.org/project/cosmofit/) |
+| **[wljs-gr-toolkit](https://github.com/salihyesil59/wljs-gr-toolkit)** | Thirteen notebooks of symbolic general relativity and modified gravity in Wolfram Language. A metric in, curvature tensors out; an action in, field equations and E(z) out, through to gravitational-wave propagation, Solar System bounds and standard sirens. Every notebook ends in verification against known limits. |
+| **[CosmoRecon](https://github.com/salihyesil59/CosmoRecon)** | Model-independent reconstruction of H(z), d_L(z) and fσ₈(z), carried as a posterior over functions so correlations survive every null test, and an error budget that separates what the data measured from what the method chose. *Pre-alpha.* |
+| **[Cosmos](https://github.com/salihyesil59/cosmos)** | An interactive desktop app that teaches cosmology from the basics to the research frontier: 58 lessons in 8 levels, 29 simulators built on real Pantheon+, SPARC, WMAP and SDSS data, quizzes with spaced repetition and a 206-term glossary, all on a physics engine verified against astropy. English and Turkish, with [downloads](https://github.com/salihyesil59/cosmos/releases/latest) for Windows, macOS and Linux. |
+| **[string-th](https://github.com/salihyesil59/string-th)** | A simulation toolkit for string theory: worldsheet dynamics, the quantum spectrum, the critical dimension, T-duality, orbifolds, all five superstring theories and the two heterotic lattices, mirror symmetry, anomaly cancellation and D-branes, computed rather than quoted. Each layer must reproduce the one below it. |
+| **[Quantum-Computing](https://github.com/salihyesil59/Quantum-Computing)** | Replicating the quantum permutation algorithm of Yalçınkaya & Gedik, [PRA **96**, 062339](https://doi.org/10.1103/PhysRevA.96.062339). |
+| **[antenna-length-calculator](https://github.com/salihyesil59/antenna-length-calculator)** | Monopole and dipole antenna lengths, worth writing once instead of re-deriving. |
+
+### Open-weight models
+
+| | |
+|---|---|
+| **[qwen3VL_Latex](https://huggingface.co/salihyesil59/qwen3VL_Latex)** | Qwen3-VL 8B fine-tuned to turn handwritten or printed mathematics into LaTeX. [`code`](https://github.com/salihyesil59/qwen3vl-8b-latex) |
+| **[llama3.1-8b-physics](https://huggingface.co/salihyesil59/llama3.1-8b-physics)** | Llama 3.1 8B fine-tuned on physics, for explanation and question answering. [`code`](https://github.com/salihyesil59/llama3.1-8b-physics) |
+
+---
+
+Always happy to talk about cosmology, physics, mathematics or AI. Feel free to
+get in touch.
+
+[Website](https://salihyesil59.github.io/) · [Hugging Face](https://huggingface.co/salihyesil59)
